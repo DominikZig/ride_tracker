@@ -1,9 +1,9 @@
 
-hsquid:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(¸ÿÔÆ8÷Ş¡ù-
-ksquid:S4488D"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÜÜß…ÿÿÿÿÿ8÷Ş¡ù-
 ksquid:S4488!"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(–­›¨ûÿÿÿÿ8÷Ş¡ù-
 esquid:S4488("HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ì÷¥M8÷Ş¡ù-
-fsquid:S4488."HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(úå–Ì8÷Ş¡ù-
-qsquid:S4488<"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(ıº²Ãùÿÿÿÿ8÷Ş¡ù-
-fsquid:S44884"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(×š¾8÷Ş¡ù-
 lsquid:MaximumInheritanceDepthG"<This class has 6 parents which is greater than 5 authorized.(ğ§ªú8÷Ş¡ù-
+fsquid:S44884"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(×š¾8÷Ş¡ù-
+hsquid:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(¸ÿÔÆ8÷Ş¡ù-
+ksquid:S4488D"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÜÜß…ÿÿÿÿÿ8÷Ş¡ù-
+qsquid:S4488<"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(ıº²Ãùÿÿÿÿ8÷Ş¡ù-
+fsquid:S4488."HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(úå–Ì8÷Ş¡ù-

@@ -1,5 +1,5 @@
 Requirements to run:
-- Java 1.8
+- Java 8
 - Maven 3+
 - Tomcat: v8.5.46
 - MySQL:

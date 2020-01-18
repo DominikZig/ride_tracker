@@ -23,3 +23,5 @@ p
 @src/main/java/com/pluralsight/repository/RideRepositoryImpl.java,a\e\ae57a86e5df1ba63c6431309c1a1ecc142adb09e
 a
 1src/main/webapp/WEB-INF/config/servlet-config.xml,3\a\3ad27e8859148283d9952dd28df78acc4f02dfa7
+f
+6src/main/java/com/pluralsight/service/RideService.java,a\7\a7b3db21b3693683671de243285cd3c0d0e00c5a

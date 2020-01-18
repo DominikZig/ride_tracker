@@ -1,9 +1,9 @@
 
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.( ÖÄ®
+gsquid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(†¿†½ýÿÿÿÿ
 O
 squid:S106Y"9Replace this use of System.out or System.err by a logger.(ö¡¹ê
-gsquid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(†¿†½ýÿÿÿÿ
+tsquid:S1488"]Immediately return this expression instead of assigning it to the temporary variable "rides".(¶ÂÛÍ
 bsquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(¤ÜäÝ
-bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.( ÖÄ®
 gsquid:CommentedOutCodeLinez"<This block of commented-out lines of code should be removed.(­¹áçøÿÿÿÿ
 xsquid:S1488a"\Immediately return this expression instead of assigning it to the temporary variable "ride".(æÕÃÔÿÿÿÿÿ
-tsquid:S1488"]Immediately return this expression instead of assigning it to the temporary variable "rides".(¶ÂÛÍ
