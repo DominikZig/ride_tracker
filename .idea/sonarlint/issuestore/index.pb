@@ -1,0 +1,25 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+j
+:src/main/java/com/pluralsight/service/RideServiceImpl.java,8\0\803d925c51933b67a473e0a61c87db55e225fefb
+l
+<src/main/java/com/pluralsight/controller/RideController.java,e\8\e808ff67413f94b3a0eaff330df5753c18b2c05a
+l
+<src/main/java/com/pluralsight/repository/RideRepository.java,3\b\3ba78648ce57c3c7fa5d2857e119315720175b7f
+p
+@src/test/java/com/pluralsight/controller/RestControllerTest.java,4\7\47991b65f227754a20b758e222e4de7ffb0e67f6
+d
+4src/main/java/com/pluralsight/util/ServiceError.java,e\0\e0255aadaa36a7711056a771d79edeb2ce3d1a11
+p
+@src/main/java/com/pluralsight/repository/util/RideRowMapper.java,6\f\6f51ed39632e5b5d6851dd44cf4418052d61cf2a
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+O
+src/main/webapp/WEB-INF/web.xml,2\e\2e22b6edd746fa3dc40ad7276c87c8d87d72a392
+I
+src/main/webapp/index.jsp,8\e\8e6d3b70c9f5b02570779b0441540d45eceb0ded
+p
+@src/main/java/com/pluralsight/repository/RideRepositoryImpl.java,a\e\ae57a86e5df1ba63c6431309c1a1ecc142adb09e
+a
+1src/main/webapp/WEB-INF/config/servlet-config.xml,3\a\3ad27e8859148283d9952dd28df78acc4f02dfa7
