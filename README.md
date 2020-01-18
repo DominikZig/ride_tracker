@@ -12,7 +12,7 @@ This project was created by following the "Building Applications Using Spring JD
 **Functionality:**
 
 This project allows you to create, read, update and delete entries in a list of mountain bike rides to track
-which ones you have done, the duration it took and the date you did it.
+which ones you have done, the duration each took and the dates you did them.
 
 **Technical Info:**
 
