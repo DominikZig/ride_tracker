@@ -16,7 +16,7 @@ which ones you have done, the duration it took and the date you did it.
 
 **Technical Info:**
 
-The project uses Java (specifically Spring Framework and Spring MVC), interacting with a MySQL database for backend and JSP/HTML for frontend. It follows a Model, Service, Repository tier architecture. Maven is used for dependency management and Tomcat is used as the application server.
+The project uses Java (specifically Spring Framework, Spring MVC and Spring JDBC), interacting with a MySQL database for backend and JSP/HTML for frontend. It follows a Model, Service, Repository tier architecture. Maven is used for dependency management and Tomcat is used as the application server.
 
 The backend consists of a REST API to interact with the MySQL database in order to have CRUD functionality. The frontend for this project is very simple and just serves to display the data and reach the different endpoints. The project uses GET, POST, PUT and DELETE calls to do Create, 
 Read, Update and Delete functions respectively. The project also showcases some advanced features such as Batch Updates, handling database exceptions and rolling back data through Transactions.
